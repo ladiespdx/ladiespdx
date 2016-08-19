@@ -1,0 +1,454 @@
+
+<!--
+  _____/\\\\\\\\\\\_______/\\\\\\\\\\\____/\\\________/\\\_
+   ___/\\\/////////\\\___/\\\/////////\\\_\/\\\_______\/\\\_
+    __\//\\\______\///___\//\\\______\///__\/\\\_______\/\\\_
+     ___\////\\\___________\////\\\_________\/\\\\\\\\\\\\\\\_
+      ______\////\\\___________\////\\\______\/\\\/////////\\\_
+       _________\////\\\___________\////\\\___\/\\\_______\/\\\_
+        __/\\\______\//\\\___/\\\______\//\\\__\/\\\_______\/\\\_
+         _\///\\\\\\\\\\\/___\///\\\\\\\\\\\/___\/\\\_______\/\\\_
+          ___\///////////_______\///////////_____\///________\///__
+  __/\\\\\\\\\\\\_____/\\\\\\\\\\\\\\\__/\\\________/\\\_
+   _\/\\\////////\\\__\/\\\///////////__\/\\\_______\/\\\_
+    _\/\\\______\//\\\_\/\\\_____________\//\\\______/\\\__
+     _\/\\\_______\/\\\_\/\\\\\\\\\\\______\//\\\____/\\\___
+      _\/\\\_______\/\\\_\/\\\///////________\//\\\__/\\\____
+       _\/\\\_______\/\\\_\/\\\________________\//\\\/\\\_____
+        _\/\\\_______/\\\__\/\\\_________________\//\\\\\______
+         _\/\\\\\\\\\\\\/___\/\\\\\\\\\\\\\\\______\//\\\_______
+          _\////////////_____\///////////////________\///________
+-->
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,target-densitydpi=160" name="viewport">
+    <meta content="Ladies' Night" property="og:title">
+    <meta content="Ladies' Night" property="og:site_name">
+    <meta content="http://ladiespdx.com/" property="og:url">
+    <meta content="http://ladiespdx.com/images/ladies-night.png" property="og:image">
+    <meta content="image/png" property="og:image:type">
+    <meta content="2160" property="og:image:width">
+    <meta content="1080" property="og:image:height">
+    <meta content="A quarterly happy hour event for women to meet and connect." property="og:description">
+    <title>Ladies' Night</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href="css/site.css" rel="stylesheet">
+    <link href="http://ladiespdx.com/images/favicons/apple-icon-57x57.png" rel="apple-touch-icon" sizes="57x57">
+    <link href="http://ladiespdx.com/images/favicons/apple-icon-60x60.png" rel="apple-touch-icon" sizes="60x60">
+    <link href="http://ladiespdx.com/images/favicons/apple-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
+    <link href="http://ladiespdx.com/images/favicons/apple-icon-76x76.png" rel="apple-touch-icon" sizes="76x76">
+    <link href="http://ladiespdx.com/images/favicons/apple-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
+    <link href="http://ladiespdx.com/images/favicons/apple-icon-120x120.png" rel="apple-touch-icon" sizes="120x120">
+    <link href="http://ladiespdx.com/images/favicons/apple-icon-144x144.png" rel="apple-touch-icon" sizes="144x144">
+    <link href="http://ladiespdx.com/images/favicons/apple-icon-152x152.png" rel="apple-touch-icon" sizes="152x152">
+    <link href="http://ladiespdx.com/images/favicons/apple-icon-180x180.png" rel="apple-touch-icon" sizes="180x180">
+    <link href="http://ladiespdx.com/images/favicons/android-icon-192x192.png" rel="icon" sizes="192x192" type="image/png">
+    <link href="http://ladiespdx.com/images/favicons/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
+    <link href="http://ladiespdx.com/images/favicons/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png">
+    <link href="http://ladiespdx.com/images/favicons/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
+    <link href="http://ladiespdx.com/manifest.json" rel="manifest">
+    <link href="http://ladiespdx.com/images/favicons/favicon.ico" rel="shortcut icon">
+    <meta content="#ffffff" name="msapplication-TileColor">
+    <meta content="http://ladiespdx.com/images/favicons/ms-icon-144x144.png" name="msapplication-TileImage">
+    <meta content="#ffffff" name="theme-color">
+    <script src="js/vendor/modernizr.js"></script>
+  </head>
+  <body>
+    <header>
+      <div class="row full block">
+        <div class="col width-1-2">
+          <span class="cta">Sold Out</span>
+        </div>
+        <div class="col width-1-2 align-right">
+          <a class="cta" href="mailto:hello@ladiespdx.com" target="_blank">Sponsor</a>
+        </div>
+      </div>
+    </header>
+    <section class="full-height" id="intro">
+      <div class="row full full-height">
+        <div class="col width-1-6 hide-for-mobile">&nbsp;</div>
+        <div class="col width-2-3 full-height main">
+          <div class="v-align-parent">
+            <div class="v-align-element middle">
+              <div class="struck"></div>
+            </div>
+          </div>
+        </div>
+        <div class="col width-1-6 hide-for-mobile">&nbsp;</div>
+      </div>
+    </section>
+    <section class="one-up ln-grey" id="event-info">
+      <div class="row">
+        <div class="col push-1-12 width-2-3 m-width-3-4">
+          <h1>
+            Join us,
+            <br>
+            August 16th
+            <br>
+            5:30—7:30pm
+            <br>
+            at
+            <a href="https://goo.gl/maps/7F3YCTnRwCH2" tagert="_blank">
+              Struck
+            </a>
+          </h1>
+        </div>
+        <div class="col absolute full-height push-5-6 width-1-12">
+          <div class="v-align-parent">
+            <div class="v-align-element middle">
+              <a class="section-cta vertical" href="http://ladiespdx7.eventbrite.com" target="_blank">R<br>S<br>V<br>P</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="two-up">
+      <div class="row full gutterless">
+        <div class="col width-1-2">
+          <div class="square-wrapper square-left js-content-block">
+            <div class="square">
+              <div class="content-block content-front ln-pale-chestnut js-open-block">
+                <div class="content-photo js-responsive-image" data-breakpoints="320,568,768,1024,1200,1400" data-lazyload="true" data-src="images/photos/photo-1.jpg"></div>
+                <div class="overlay ln-pale-chestnut"></div>
+                <div class="v-align-parent">
+                  <div class="v-align-element middle">
+                    <div class="content-visual"></div>
+                  </div>
+                </div>
+                <div class="content-footer align-center">
+                  About Ladies’&nbsp;Night
+                </div>
+              </div>
+              <div class="content-block content-back ln-grey">
+                <div class="content-copy">
+                  <h3>About Ladies’&nbsp;Night</h3>
+                  <p>
+                    Ladies’&nbsp;Night is a quarterly happy hour for the digitally-minded women, committed to conversation, collaboration, and community. Ladies’&nbsp;Night was founded in 2014 and is an on-going effort by
+                    <a href="//www.linkedin.com/in/maryblalock" target="_blank">Mary Blalock</a>,
+                    <a href="//www.linkedin.com/in/ginger-craft-70ab2955" target="_blank">Ginger Craft</a>,
+                    <a href="//www.linkedin.com/in/stefhatcher" target="_blank">Stefanie Hatcher</a>,
+                    and
+                    <a href="//jordanasmith.com/" target="_blank">Jordan A. Smith</a>.
+                    If you would like to sponsor or volunteer to help Ladies’&nbsp;Night, please get in touch.
+                  </p>
+                </div>
+                <div class="content-footer">
+                  <a href="mailto:hello@ladiespdx.com" target="_blank">Sponsor us</a>
+                </div>
+                <button class="content-close js-close-block" type="button">
+                  <span class="u-is-hidden-visually">close</span>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col width-1-2">
+          <div class="square-wrapper square-right js-content-block">
+            <div class="square">
+              <div class="content-block content-front ln-monte-carlo js-open-block">
+                <div class="content-photo horizontal-flip js-responsive-image" data-breakpoints="320,568,768,1024,1200,1400" data-lazyload="true" data-src="images/photos/photo-2.jpg"></div>
+                <div class="overlay ln-monte-carlo"></div>
+                <div class="v-align-parent">
+                  <div class="v-align-element middle">
+                    <div class="content-visual">
+                      <svg width="46" height="38" viewbox="0 0 46 38" xmlns="http://www.w3.org/2000/svg"><title>Group 8</title>
+                      <g fill="#81CFD3" fill-rule="evenodd"><path d="M11.8 28.19c3.322 0 4.86-2.673 4.86-5.913 0-3.242-1.538-5.996-4.86-5.996s-5.063 2.755-5.063 5.997c0 3.28 1.7 5.913 5.063 5.913zM6.737 4.13v9.76c1.782-1.984 4.01-2.956 6.643-2.956 6.076 0 9.844 4.86 9.844 11.302 0 6.4-3.768 11.302-9.844 11.302-2.633 0-4.86-.973-6.643-2.957v2.472H.54V4.13h6.197zM32.746 34.505L29.18 30.9l8.792-8.75-8.79-8.79 3.564-3.565L45.142 22.15"></path></g></svg>
+                    </div>
+                  </div>
+                </div>
+                <div class="content-footer align-center">
+                  About Struck
+                </div>
+              </div>
+              <div class="content-block content-back ln-grey">
+                <div class="content-copy">
+                  <h3>About Struck</h3>
+                  <p>Struck is a creative agency (with offices in Portland, Salt Lake City and Los Angeles) focused on helping clients defy logic, overcome obstacles and outpace competition—through strategic insights and breakthrough creativity. The agency develops powerful brand solutions and experiences for clients such as Jack in the Box, Nickelodeon, The Weather Channel, Utah Office of Tourism, Experience Scottsdale, Creminelli and Universal Studios.</p>
+                </div>
+                <div class="content-footer">
+                  <a href="//struck.com/" target="_blank">Struck</a>
+                </div>
+                <button class="content-close js-close-block" type="button">
+                  <span class="u-is-hidden-visually">close</span>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="two-up">
+      <div class="row full gutterless">
+        <div class="col width-1-2">
+          <div class="square-wrapper square-left js-content-block">
+            <div class="square">
+              <div class="content-block content-front ln-monte-carlo js-open-block">
+                <div class="content-photo js-responsive-image" data-breakpoints="320,568,768,1024,1200,1400" data-lazyload="true" data-src="images/photos/photo-3.jpg"></div>
+                <div class="overlay ln-monte-carlo"></div>
+                <div class="v-align-parent">
+                  <div class="v-align-element middle">
+                    <div class="content-visual"></div>
+                  </div>
+                </div>
+                <div class="content-footer align-center">
+                  Code Of Conduct
+                </div>
+              </div>
+              <div class="content-block content-back ln-grey">
+                <div class="content-copy fuller">
+                  <h3>Code Of Conduct</h3>
+                  <h4>
+                    <em>We don’t shine, if you don’t shine.</em>
+                  </h4>
+                  <p>Ladies’&nbsp;Night is an event series platform that is dedicated to inclusive conversation, collaboration and community in a safe space. It is our goal to provide women of all backgrounds (regardless of gender identity and expression, sexual orientation, ability, physical appearance, body size, race, ethnicity, age, religion, or socioeconomic status) an ability to come together to share their experiences with each other. In order to maintain this level of environment, we have a code of conduct that we hold our founders, volunteers, and all attendees to. We are an entirely harassment-free environment.</p>
+                  <p>Harassment includes any behavior and/or language that is offensive to anyone’s gender, sexual preference, race, religion, physical appearance, disability, unwanted physical contact, or deliberate intimidation.</p>
+                  <p>Every attendee of a Ladies’&nbsp;Night affiliated event or member of any of our social channels is expected to maintain this level of conduct in all their interactions.</p>
+                  <h4>
+                    <em>Reporting & Enforcing</em>
+                  </h4>
+                  <p>
+                    If you or someone you know is being harassed please reach out to
+                    <a href="mailto:hello@ladiespdx.com">hello@ladiespdx.com</a>
+                  </p>
+                  <p>All reports will be handled confidentially and to the appropriate degree in order for the harassed to feel safe again.</p>
+                  <p>Please find Ginger, Mary, Stefanie, or Jordan at a Ladies’&nbsp;Night event if you have any questions.</p>
+                </div>
+                <button class="content-close js-close-block" type="button">
+                  <span class="u-is-hidden-visually">close</span>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col width-1-2">
+          <div class="square-wrapper square-right js-content-block">
+            <div class="square">
+              <div class="content-block content-front ln-pale-chestnut js-open-block">
+                <div class="content-photo js-responsive-image" data-breakpoints="320,568,768,1024,1200,1400" data-lazyload="true" data-src="images/photos/photo-4.jpg"></div>
+                <div class="overlay ln-pale-chestnut"></div>
+                <div class="v-align-parent">
+                  <div class="v-align-element middle">
+                    <div class="content-visual"></div>
+                  </div>
+                </div>
+                <div class="content-footer align-center">
+                  PDX UTA
+                </div>
+              </div>
+              <div class="content-block content-back ln-grey">
+                <div class="content-copy">
+                  <h3>PDX UTA</h3>
+                  <p>UTA is dedicated to increasing the representation of Blacks, Latinxs, Natives and other underrepresented races in the Portland tech scene through education, volunteer work and social events. UTA believes the tech industry, communities of color, and the country as a whole would benefit from the inclusion of all backgrounds in the tech sector.</p>
+                </div>
+                <div class="content-footer">
+                  <a href="http://www.utapdx.org/" target="_blank">UTA</a>
+                </div>
+                <button class="content-close js-close-block" type="button">
+                  <span class="u-is-hidden-visually">close</span>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="one-up ln-grey" id="newsletter">
+      <div id="mc_embed_signup">
+        <form action="//ladiespdx.us12.list-manage.com/subscribe/post?u=8462aa74914a6568b16b202fe&amp;amp;id=31dee2eeb1" class="validate" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
+          <div class="row">
+            <div class="col push-1-12 width-2-3 m-width-3-4">
+              <h1>
+                Get an occassional<br>update from us.
+              </h1>
+              <label class="u-is-hidden-visually" for="mce-EMAIL">Email Address</label>
+              <input class="required email" id="mce-EMAIL" name="EMAIL" placeholder="kween@ladiesnight.com" type="email" value="">
+              <div aria-hidden="true" class="u-is-hidden-visually">
+                <input name="b_8462aa74914a6568b16b202fe_31dee2eeb1" tabindex="-1" type="text" value="">
+              </div>
+            </div>
+            <div class="col absolute full-height push-5-6 width-1-12">
+              <div class="v-align-parent">
+                <div class="v-align-element middle">
+                  <button class="section-cta vertical" id="mc-embedded-subscribe" name="subscribe" type="submit">Y<br>A<br>S</button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col push-1-12 width-2-3">
+              <div id="mce-responses">
+                <div id="mce-error-response"></div>
+                <div id="mce-success-response"></div>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
+    </section>
+    <section class="two-up">
+      <div class="row full gutterless">
+        <div class="col width-1-2">
+          <div class="square-wrapper square-left">
+            <a class="square" href="//twitter.com/ladies_pdx" target="_blank">
+              <div class="content-block content-front ln-pale-chestnut">
+                <div class="content-photo js-responsive-image" data-breakpoints="320,568,768,1024,1200,1400" data-lazyload="true" data-src="images/photos/photo-5.jpg"></div>
+                <div class="overlay ln-pale-chestnut"></div>
+                <div class="v-align-parent">
+                  <div class="v-align-element middle">
+                    <div class="content-visual">
+                      <svg width="42" height="38" viewbox="0 0 42 38" xmlns="http://www.w3.org/2000/svg"><title>Fill 1</title>
+                      <path d="M42 5.348c-1.554.75-3.206 1.236-4.956 1.46 1.784-1.148 3.153-2.957 3.8-5.124-1.668 1.058-3.514 1.814-5.483 2.257C33.797 2.13 31.55 1 29.078 1c-4.76 0-8.617 4.15-8.617 9.278 0 .72.075 1.433.217 2.103C13.53 12.014 7.17 8.306 2.92 2.704 2.18 4.07 1.756 5.66 1.756 7.367c0 3.21 1.52 6.067 3.836 7.706-1.415-.057-2.745-.452-3.905-1.153v.126c0 4.487 2.97 8.23 6.91 9.097-.72.21-1.485.307-2.276.307-.553 0-1.08-.04-1.61-.165 1.09 3.698 4.277 6.385 8.046 6.44-2.95 2.5-6.664 3.97-10.7 3.97-.7 0-1.386-.042-2.058-.13 3.812 2.644 8.333 4.184 13.21 4.184 15.847 0 24.52-14.14 24.52-26.398 0-.392-.01-.79-.03-1.187 1.68-1.324 3.145-2.96 4.3-4.817" fill="#81CFD3" fill-rule="evenodd"></path></svg>
+                    </div>
+                  </div>
+                </div>
+                <div class="content-footer align-center">
+                  Follow Our Twitter
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="col width-1-2">
+          <div class="square-wrapper square-right">
+            <a class="square" href="//www.facebook.com/groups/ladiespdx/" target="_blank">
+              <div class="content-block content-front ln-monte-carlo">
+                <div class="content-photo js-responsive-image" data-breakpoints="320,568,768,1024,1200,1400" data-lazyload="true" data-src="images/photos/photo-6.jpg"></div>
+                <div class="overlay ln-monte-carlo"></div>
+                <div class="v-align-parent">
+                  <div class="v-align-element middle">
+                    <div class="content-visual">
+                      <svg width="17" height="38" viewbox="0 0 17 38" xmlns="http://www.w3.org/2000/svg"><title>Page 1 Copy 8</title>
+                      <path d="M11.032 12.657V8.92c0-1.402.93-1.73 1.584-1.73h4.02V1.022L11.1 1C4.953 1 3.554 5.6 3.554 8.545v4.112H0v6.356h3.554V37h7.478V19.013h5.044l.653-6.356H11.03z" fill="#81CFD3" fill-rule="evenodd"></path></svg>
+                    </div>
+                  </div>
+                </div>
+                <div class="content-footer align-center">
+                  Join Our FB Community
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="two-up">
+      <div class="row full gutterless">
+        <div class="col width-1-2">
+          <div class="square-wrapper square-left">
+            <a class="square" href="http://ladiesnightwk.tumblr.com/" target="_blank">
+              <div class="content-block content-front ln-monte-carlo">
+                <div class="content-photo js-responsive-image" data-breakpoints="320,568,768,1024,1200,1400" data-lazyload="true" data-src="images/photos/photo-7.jpg"></div>
+                <div class="overlay ln-monte-carlo"></div>
+                <div class="v-align-parent">
+                  <div class="v-align-element middle">
+                    <div class="content-visual"></div>
+                  </div>
+                </div>
+                <div class="content-footer align-center">
+                  Get Your Glitch Portrait
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="col width-1-2">
+          <div class="square-wrapper square-right">
+            <a class="square" href="//www.instagram.com/ladies_pdx/" target="_blank">
+              <div class="content-block content-front ln-pale-chestnut">
+                <div class="content-photo js-responsive-image" data-breakpoints="320,568,768,1024,1200,1400" data-lazyload="true" data-src="images/photos/photo-8.jpg"></div>
+                <div class="overlay ln-pale-chestnut"></div>
+                <div class="v-align-parent">
+                  <div class="v-align-element middle">
+                    <div class="content-visual">
+                      <svg width="35" height="38" viewbox="0 0 35 38" xmlns="http://www.w3.org/2000/svg"><title>Group 10</title>
+                      <g fill="#81CFD3" fill-rule="evenodd"><path d="M17.5 1c-4.753 0-5.35.02-7.215.105-1.863.085-3.134.382-4.25.813-1.15.448-2.125 1.047-3.097 2.02-.973.973-1.572 1.948-2.02 3.098C.488 8.15.19 9.422.105 11.286.02 13.15 0 13.745 0 18.5c0 4.753.02 5.35.105 7.216.085 1.862.382 3.135.813 4.248.448 1.15 1.047 2.127 2.02 3.098.972.973 1.948 1.572 3.098 2.02 1.115.432 2.386.728 4.25.813 1.865.085 2.46.105 7.214.105 4.753 0 5.35-.02 7.215-.105 1.863-.085 3.135-.38 4.25-.813 1.15-.448 2.124-1.047 3.097-2.02.973-.97 1.572-1.948 2.02-3.098.432-1.113.728-2.386.813-4.248.085-1.867.105-2.463.105-7.216s-.02-5.35-.105-7.215c-.085-1.863-.38-3.134-.813-4.25-.448-1.15-1.047-2.124-2.02-3.097-.973-.973-1.948-1.572-3.098-2.02-1.114-.43-2.386-.728-4.25-.813C22.85 1.02 22.255 1 17.5 1m0 3.154c4.673 0 5.227.017 7.07.1 1.708.08 2.634.364 3.252.604.816.318 1.398.697 2.01 1.31.613.612.993 1.194 1.31 2.01.24.618.525 1.544.603 3.25.084 1.845.102 2.4.102 7.072 0 4.673-.018 5.227-.102 7.07-.078 1.708-.363 2.634-.603 3.252-.317.816-.697 1.398-1.31 2.01-.612.613-1.194.993-2.01 1.31-.618.24-1.544.525-3.25.603-1.845.084-2.4.102-7.072.102-4.672 0-5.227-.018-7.07-.102-1.708-.078-2.634-.363-3.25-.603-.818-.317-1.4-.697-2.013-1.31-.612-.612-.99-1.194-1.31-2.01-.24-.618-.524-1.544-.602-3.25-.084-1.845-.1-2.4-.1-7.072 0-4.672.016-5.227.1-7.07.078-1.708.363-2.634.603-3.25.318-.818.697-1.4 1.31-2.013.612-.612 1.194-.99 2.01-1.31.618-.24 1.544-.524 3.25-.602 1.845-.084 2.4-.1 7.072-.1"></path><path d="M17.5 24.334c-3.22 0-5.833-2.613-5.833-5.834 0-3.22 2.612-5.833 5.833-5.833 3.22 0 5.833 2.612 5.833 5.833 0 3.22-2.612 5.834-5.833 5.834m0-14.82c-4.963 0-8.987 4.023-8.987 8.986 0 4.963 4.024 8.987 8.987 8.987s8.987-4.024 8.987-8.987-4.024-8.987-8.987-8.987M28.942 9.16c0 1.158-.94 2.1-2.1 2.1-1.16 0-2.1-.942-2.1-2.1 0-1.16.94-2.1 2.1-2.1 1.16 0 2.1.94 2.1 2.1"></path></g></svg>
+                    </div>
+                  </div>
+                </div>
+                <div class="content-footer align-center">
+                  Follow Our Instagram
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="one-up ln-mirage" id="footer">
+      <div class="row">
+        <div class="col width-5-12 push-1-12">
+          <h3>Our Sponsors</h3>
+          <ul>
+            <li class="align-center">
+              <a href="//struck.com/"><svg height="29" viewbox="0 0 148 29" width="148" xmlns="http://www.w3.org/2000/svg">
+                <title>Struck</title>
+                <g fill-rule="evenodd" fill="#FFF">
+                  <path d="M23.143 1.24V3.6c-2.5-2.317-5.81-3.445-10.106-3.445-6.96 0-11.455 3.497-11.455 8.91 0 5.94 4.833 7.508 9.56 8.26.44.07.867.13 1.283.193 2.903.425 5.196.76 5.196 2.4 0 1.37-1.945 2.108-3.777 2.108-3.16 0-5.482-1.216-6.904-3.614l-.08-.134-6.667 3.27.086.148c2.614 4.492 7.02 6.77 13.097 6.77 8.587 0 12.43-4.66 12.43-9.276 0-6.004-5.472-7.634-11.387-8.502-3.094-.452-4.567-.9-4.567-2.23 0-1.285 1.69-1.742 3.27-1.742 2.263 0 4.378.898 5.516 2.343l.084.107L23.144 7v1.364h7.68v19.402h8.243V8.364h7.722V1.24H23.142M137.724 11.942l9.53-10.72h-9.987l-8.314 10.117V1.22h-8.244v4.753C117.967 2.43 114.03.558 109.292.558c-6.29 0-11.247 3.272-13.185 8.615V1.24h-8.244V17.7c0 2.68-1.45 3.982-4.434 3.982-3.025 0-4.434-1.266-4.434-3.983V1.24H70.71v5.105c-1.55-3.258-5.092-5.106-9.863-5.106h-13.43v26.524h8.2v-7.97h3.313l3.03 7.98h9.54l-4.454-9.607c1.66-.956 2.912-2.28 3.663-3.87v3.402c0 7.108 4.636 11.186 12.72 11.186 7.237 0 11.762-3.36 12.55-9.26 1.84 5.613 6.865 9.06 13.313 9.06 4.847 0 8.685-1.893 11.416-5.63v4.705h8.243v-5.963l2.857-3.78 5.916 9.744h10.106l-10.108-15.818zm-77.128 1.57h-4.978V8.365h4.978c1.478 0 2.51 1.075 2.51 2.615 0 1.49-1.032 2.533-2.51 2.533zM120.71 8.84v11.004L115 17.71c-1.345 2.856-3.046 4.135-5.502 4.135-3.54 0-6.012-2.994-6.012-7.282 0-4.217 2.472-7.162 6.012-7.162 2.396 0 4.13 1.106 5.546 3.556l5.665-2.117z"></path>
+                </g>
+              </svg></a>
+            </li>
+          </ul>
+        </div>
+        <div class="col width-5-12 push-1-12">
+          <h3>Past Sponsors</h3>
+          <ul>
+            <li>
+              <a href="//www.wk.com/" target="_blank">WIEDEN + KENNEDY</a>
+            </li>
+            <li>
+              <a href="//www.chirpify.com/" target="_blank">CHIRPIFY</a>
+            </li>
+            <li>
+              <a href="//www.simple.com/" target="_blank">SIMPLE</a>
+            </li>
+            <li>
+              <a href="//52ltd.com/" target="_blank">52 LTD</a>
+            </li>
+            <li>
+              <a href="//www.instrument.com/" target="_blank">INSTRUMENT</a>
+            </li>
+          </ul>
+          <h3>Thank You</h3>
+          <h4>Struck Ladies</h4>
+          <p>
+            <a href="//www.linkedin.com/in/jenniferluecht" target="_blank">Jennifer&nbsp;Luecht</a>,
+            <a href="//www.binaryfishie.com/" target="_blank">Nadya&nbsp;Bratt</a>,
+            <a href="//www.instagram.com/alexandrafuller/" target="_blank">Alexandra&nbsp;Fuller</a>,
+            <a href="//www.whoisjoanna.com/" target="_blank">Joanna&nbsp;Papaleo</a>,
+            and
+            <a href="//www.kirstenrodgers.com/" target="_blank">Kirsten&nbsp;Wolfert</a>.
+          </p>
+          <h4>Ladies’&nbsp;Night Team</h4>
+          <p>
+            <a href="//www.salutaimeedesign.com/" target="_blank">Aimée&nbsp;Reed</a>,
+            <a href="//www.terahatfield.com/" target="_blank">Tera&nbsp;Hatfield</a>,
+            <a href="//www.sarahcespedes.com/" target="_blank">Sarah&nbsp;Cespedes</a>,
+            <a href="//www.kimsmithmiller.com" target="_blank">Kim&nbsp;Smith-Miller</a>,
+            and
+            <a href="//www.graceerivera.com/" target="_blank">Grace&nbsp;Riviera</a>.
+          </p>
+        </div>
+      </div>
+    </section>
+    <script src="js/lib.min.js"></script>
+    <script src="js/site.min.js"></script>
+    <script>
+      app.init('index');
+    </script>
+    <script src="https://use.typekit.net/xul6enn.js"></script>
+    <script>
+      try{Typekit.load({ async: true });}catch(e){}
+    </script>
+    <script aync src="https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
+    <script>
+      (function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}());
+    </script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-64963765-1','auto');ga('send','pageview');
+    </script>
+  </body>
+</html>
